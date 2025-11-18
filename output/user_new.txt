@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2025-11-18 06:12:17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+2025-11-18 18:15:50,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 
 📺央视频道,#genre#
-CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -32,13 +32,13 @@ CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
 CCTV-3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=lg
-CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=gq
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=lg
+CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
@@ -72,9 +72,9 @@ CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
@@ -92,8 +92,8 @@ CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8
 CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=lg
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
+CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=lg
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=cq
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
@@ -122,10 +122,10 @@ CCTV-11,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225597/index.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=lg
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=lg
+CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=cq
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
@@ -182,8 +182,8 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
-CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
+CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
