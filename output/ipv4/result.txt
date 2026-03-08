@@ -1,20 +1,22 @@
 🕘️更新时间,#genre#
-2026-03-08 06:14:00,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+2026-03-08 18:16:43,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 
 📺央视频道,#genre#
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=10
+CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3
+CCTV-10,https://iptv.catvod.com/live.php?id=CCTV10&line=11
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 💰央视付费频道,#genre#
+第一剧场,http://iptv.4666888.xyz/iptv2A.php?id=61
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
 📡卫视频道,#genre#
